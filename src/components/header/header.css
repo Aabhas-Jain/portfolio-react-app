@@ -13,7 +13,7 @@ header{
 .header__container-right{
     position: absolute;
     right: 9rem;
-    top: 7rem;
+    top: 5.5rem;
     font-size: larger;
 }
 /* =======================CTA========================= */
@@ -52,7 +52,7 @@ header{
     height: 29rem;
     position: absolute;
     left: calc(50% - 11rem);
-    border-radius: 12rem 12rem 0 0;
+    border-radius: 5rem;
     overflow: hidden;
     padding: 2rem 0rem 1.5rem;
     left: 0rem;
