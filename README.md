@@ -8,7 +8,9 @@ Open for Contributions, fork it and give pr request, will be accepted accordingl
 
 To run project in your local system
 
-git clone &lt;repo&gt; <br>
-cd &lt;repo&gt; <br>
-npm install <br>
-npm start <br>
+```
+git clone <repo>
+cd <repo>
+npm install
+npm start
+```
