@@ -1,7 +1,7 @@
 
 import IMG1 from "../assets/portfolio1.png";
 import IMG2 from "../assets/portfolio2.png";
-import IMG3 from "../assets/portfolio3.jpg";
+import IMG3 from "../assets/wordle-clone.png";
 import IMG4 from "../assets/portfolio4.jpg";
 import IMG5 from "../assets/portfolio5.png";
 import IMG6 from "../assets/portfolio6.jpg";
@@ -21,13 +21,13 @@ const data = [
     github: "https://github.com/Aabhas-Jain/covid-19-tracker",
     demo: "https://covid-19-tracker-9b01a.web.app/",
   },
-  // {
-  //   id: 3,
-  //   image: IMG3,
-  //   title: "Project Title 3",
-  //   github: "https://github.com",
-  //   demo: "https://github.com",
-  // },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Wordle Clone (Vanilla JS)",
+    github: "https://github.com/Aabhas-Jain/wordle-clone-vanilla-js",
+    demo: "https://aabhas-jain.github.io/wordle-clone-vanilla-js/",
+  },
   // {
   //   id: 4,
   //   image: IMG4,
