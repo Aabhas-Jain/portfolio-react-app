@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.816fcdd2.css",
-    "main.js": "/portfolio-react-app/static/js/main.c21de597.js",
+    "main.css": "/portfolio-react-app/static/css/main.8c5cffe2.css",
+    "main.js": "/portfolio-react-app/static/js/main.9156b66e.js",
     "static/media/portfolio1.png": "/portfolio-react-app/static/media/portfolio1.695ea10a1979caca95dc.png",
     "static/media/portfolio2.png": "/portfolio-react-app/static/media/portfolio2.f1bddb56b9c193a2c9c9.png",
     "static/media/me-about.jpg": "/portfolio-react-app/static/media/me-about.2d477450db43ed4508f6.jpg",
@@ -9,14 +9,14 @@
     "static/media/portfolio5.png": "/portfolio-react-app/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio6.jpg": "/portfolio-react-app/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/cv.pdf": "/portfolio-react-app/static/media/cv.86e9c79495137aeba9c8.pdf",
-    "static/media/portfolio3.jpg": "/portfolio-react-app/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/wordle-clone.png": "/portfolio-react-app/static/media/wordle-clone.99a5acb97d85fd611cb6.png",
     "static/media/portfolio4.jpg": "/portfolio-react-app/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/portfolio-react-app/index.html",
-    "main.816fcdd2.css.map": "/portfolio-react-app/static/css/main.816fcdd2.css.map",
-    "main.c21de597.js.map": "/portfolio-react-app/static/js/main.c21de597.js.map"
+    "main.8c5cffe2.css.map": "/portfolio-react-app/static/css/main.8c5cffe2.css.map",
+    "main.9156b66e.js.map": "/portfolio-react-app/static/js/main.9156b66e.js.map"
   },
   "entrypoints": [
-    "static/css/main.816fcdd2.css",
-    "static/js/main.c21de597.js"
+    "static/css/main.8c5cffe2.css",
+    "static/js/main.9156b66e.js"
   ]
 }
