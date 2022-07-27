@@ -12,7 +12,7 @@ const data = [
     image: IMG1,
     title: "Amazon Clone",
     github: "https://github.com/Aabhas-Jain/Amazon-Clone",
-    demo: "https://clone-98477.web.app/",
+    demo: "https://www.youtube.com/watch?v=OyU9_NUmwIw",
   },
   {
     id: 2,
